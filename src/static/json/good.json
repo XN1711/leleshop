@@ -1,0 +1,25 @@
+{
+	status:0,
+	message:[
+    {id:1,pageIndex:1,title:"华为手机上事实上",add_time:"2018-01-01T16:15:01.00Z",click:1,img_url:require("../../static/img/good1.jpg"),sell_price:5195,stock_quantity:60,market_price:4512,goods_no:"A1"},
+    {id:2,pageIndex:1,title:"联想手机对对对",add_time:"2018-02-01T16:15:01.00Z",click:2,img_url:require("../../static/img/good2.jpg"),sell_price:4335,stock_quantity:55,market_price:4512,goods_no:"A2"},
+    {id:3,pageIndex:1,title:"小米手机的覆盖对",add_time:"2018-03-01T16:15:01.00Z",click:3,img_url:require("../../static/img/good3.jpg"),sell_price:2545,stock_quantity:50,market_price:4512,goods_no:"B1"},
+    {id:4,pageIndex:1,title:"中兴手机啊啊去对",add_time:"2018-04-01T16:15:01.00Z",click:4,img_url:require("../../static/img/good4.jpg"),sell_price:1235,stock_quantity:45,market_price:4512,goods_no:"B2"},
+    {id:5,pageIndex:1,title:"vivo手机看看",add_time:"2018-05-01T16:15:01.00Z",click:5,img_url:require("../../static/img/good5.jpg"),sell_price:3435,stock_quantity:40,market_price:4512,goods_no:"C1"},
+    {id:6,pageIndex:1,title:"oppo手机这款",add_time:"2018-06-01T16:15:01.00Z",click:6,img_url:require("../../static/img/good6.jpg"),sell_price:1235,stock_quantity:35,market_price:4512,goods_no:"C2"},
+    {id:7,pageIndex:2,title:"苹果手机于洋洋",add_time:"2018-07-01T16:15:01.00Z",click:7,img_url:require("../../static/img/good7.jpg"),sell_price:6595,stock_quantity:30,market_price:4512,goods_no:"D1"},
+    {id:8,pageIndex:2,title:"三星手机对对对",add_time:"2018-08-01T16:15:01.00Z",click:8,img_url:require("../../static/img/good8.jpg"),sell_price:2195,stock_quantity:25,market_price:4512,goods_no:"D2"},
+    {id:9,pageIndex:2,title:"诺基亚手机对对对",add_time:"2018-09-01T16:15:01.00Z",click:9,img_url:require("../../static/img/good9.jpg"),sell_price:4595,stock_quantity:20,market_price:4512,goods_no:"E1"},
+    {id:10,pageIndex:2,title:"联想手机对对对",add_time:"2018-10-01T16:15:01.00Z",click:10,img_url:require("../../static/img/good10.jpg"),sell_price:5495,stock_quantity:15,market_price:4512,goods_no:"E2"},
+    {id:11,pageIndex:2,title:"华为手机上事实上",add_time:"2018-01-01T16:15:01.00Z",click:1,img_url:require("../../static/img/good1.jpg"),sell_price:5195,stock_quantity:60,market_price:4512,goods_no:"E3"},
+    {id:12,pageIndex:2,title:"联想手机对对对",add_time:"2018-02-01T16:15:01.00Z",click:2,img_url:require("../../static/img/good2.jpg"),sell_price:4335,stock_quantity:55,market_price:4512,goods_no:"E4"},
+    {id:13,pageIndex:3,title:"小米手机的覆盖对",add_time:"2018-03-01T16:15:01.00Z",click:3,img_url:require("../../static/img/good3.jpg"),sell_price:2545,stock_quantity:50,market_price:4512,goods_no:"F1"},
+    {id:14,pageIndex:3,title:"中兴手机啊啊去对",add_time:"2018-04-01T16:15:01.00Z",click:4,img_url:require("../../static/img/good4.jpg"),sell_price:1235,stock_quantity:45,market_price:4512,goods_no:"F2"},
+    {id:15,pageIndex:3,title:"vivo手机看看",add_time:"2018-05-01T16:15:01.00Z",click:5,img_url:require("../../static/img/good5.jpg"),sell_price:3435,stock_quantity:40,market_price:4512,goods_no:"G1"},
+    {id:16,pageIndex:3,title:"oppo手机这款",add_time:"2018-06-01T16:15:01.00Z",click:6,img_url:require("../../static/img/good6.jpg"),sell_price:1235,stock_quantity:35,market_price:4512,goods_no:"G2"},
+    {id:17,pageIndex:3,title:"苹果手机于洋洋",add_time:"2018-07-01T16:15:01.00Z",click:7,img_url:require("../../static/img/good7.jpg"),sell_price:6595,stock_quantity:30,market_price:4512,goods_no:"H1"},
+    {id:18,pageIndex:3,title:"三星手机对对对",add_time:"2018-08-01T16:15:01.00Z",click:8,img_url:require("../../static/img/good8.jpg"),sell_price:2195,stock_quantity:25,market_price:4512,goods_no:"H2"},
+    {id:19,pageIndex:4,title:"诺基亚手机对对对",add_time:"2018-09-01T16:15:01.00Z",click:9,img_url:require("../../static/img/good9.jpg"),sell_price:4595,stock_quantity:20,market_price:4512,goods_no:"I1"},
+    {id:20,pageIndex:4,title:"联想手机对对对",add_time:"2018-10-01T16:15:01.00Z",click:10,img_url:require("../../static/img/good10.jpg"),sell_price:5495,stock_quantity:15,market_price:4512,goods_no:"I2"},
+	]
+}
